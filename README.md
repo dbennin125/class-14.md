@@ -1,1 +1,6 @@
 # class-14.md
+## Cool things to do with CSS
+There were a few transitions and animations that you could do with CSS. The codes looked a bit complex but overall the the product was super cool too. 
+I liked the simple CCS transitions that will wow users because as the name suggests, they were awesome and didn't require a lot of code to produce. The fade in fade out look interesting and I think I'd like to try that out soon. 
+<br>The 404 animation reminded me of flash from back in the day. I would like to try that one as well at some point. The bounce animation looks familar and I'm not sure if I've done this before for on Khan Academy for coding animations...regardless it looks super cool. 
+<br>Overall, I wasn't aware that CSS could do so much. It defintely reminds me of flash animations from back in the day but seems to be fully implemented. It also seems like the community around it can do some many crazy cool looking things. I'm definitely excited to dive a little more into it once I feel better about writing code. 
